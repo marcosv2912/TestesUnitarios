@@ -97,3 +97,5 @@ C:\Users\marcos.paixao\source\repos\TesteU1\test\CursoOnlineDominioTest\bin\Debu
 C:\Users\marcos.paixao\source\repos\TesteU1\test\CursoOnlineDominioTest\bin\Debug\netcoreapp3.0\Bogus.dll
 C:\Users\marcos.paixao\source\repos\TesteU1\test\CursoOnlineDominioTest\bin\Debug\netcoreapp3.0\CursoOnline.Dominio.dll
 C:\Users\marcos.paixao\source\repos\TesteU1\test\CursoOnlineDominioTest\bin\Debug\netcoreapp3.0\CursoOnline.Dominio.pdb
+C:\Users\marcos.paixao\source\repos\TesteU1\test\CursoOnlineDominioTest\bin\Debug\netcoreapp3.0\Castle.Core.dll
+C:\Users\marcos.paixao\source\repos\TesteU1\test\CursoOnlineDominioTest\bin\Debug\netcoreapp3.0\Moq.dll
